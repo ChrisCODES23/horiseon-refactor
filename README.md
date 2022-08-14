@@ -24,14 +24,15 @@
 
  ## Usage
 
-<img src="horiseon-refactor\assets\Screenshot 2022-08-13 211207.png" />
-![GIF](https://imgflip.com/gif/6pw3ie)
+ <img src="./ezgif-3-9af1c03331.gif" alt="A screenrecording of the site" height="720px">
 
 
 
 
 
-    
+
+
+
 
 
 
