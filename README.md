@@ -23,6 +23,8 @@
  - I added a root code for some repetitive values to add some style in it. 
 
  ## Usage
+ 
+ ![](https://imgflip.com/gif/6pw2ruhttps://imgflip.com/gif/6pw2ru)
 
 
 
