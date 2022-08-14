@@ -24,8 +24,14 @@
 
  ## Usage
 
+<img src="horiseon-refactor\assets\Screenshot 2022-08-13 211207.png" />
+![GIF](https://imgflip.com/gif/6pw3ie)
 
 
+
+
+
+    
 
 
 
@@ -36,4 +42,3 @@
 
 
 
-                    
