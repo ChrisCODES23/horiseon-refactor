@@ -25,7 +25,7 @@
  ## Usage
  
 
-![GIF](https://imgflip.com/gif/6pw3ie)
+
 
 
 
