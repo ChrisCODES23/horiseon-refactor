@@ -23,21 +23,9 @@
  - I added a root code for some repetitive values to add some style in it. 
 
  ## Usage
-<<<<<<< HEAD
+
 
  <img src="./ezgif-3-9af1c03331.gif" alt="A screenrecording of the site" height="720px">
-
-
-
-
-
-
-
-=======
- 
->>>>>>> 13497267c47c130fd9db01768b93dad44c9529fd
-
-
 
 
 
@@ -45,9 +33,3 @@
 
                     All credits reserved to UCLA Coding Bootcamp under Trilogy
 
-
-
-<<<<<<< HEAD
-=======
-                    
->>>>>>> 13497267c47c130fd9db01768b93dad44c9529fd
