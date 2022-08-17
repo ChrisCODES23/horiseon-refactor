@@ -26,6 +26,14 @@
 
 
  <img src="./ezgif-3-9af1c03331.gif" alt="A screenrecording of the site" height="720px">
+ 
+ ## Links
+ 
+ 
+github link: https://github.com/ChrisCODES23/horiseon-refactor/deployments/activity_log?environment=github-pages
+
+live link: https://chriscodes23.github.io/horiseon-refactor/
+
 
 
 
